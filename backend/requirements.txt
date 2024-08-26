@@ -1,0 +1,4 @@
+flask==3.0.3
+marshmallow==3.21.3
+redis==5.0.8
+celery==5.4.0
